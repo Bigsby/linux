@@ -3,7 +3,7 @@ Linux stuff
 
 # Distros to Test
 - [Debian](https://www.debian.org/)
-  - [Ubuntu](https://www.ubuntu.com/)
+  - [Ubuntu](https://www.ubuntu.com/) (GNOME)(VSC)
     - [Mint](https://linuxmint.com/)
     - [elementary OS](https://elementary.io/)
     - [ZorinOS](https://zorinos.com/)
@@ -17,16 +17,16 @@ Linux stuff
   - [Tails](https://tails.boum.org/)
   
 - [Arch Linux](https://www.archlinux.org/)
-  - [Manjaro](https://manjaro.org/)
+  - [Manjaro](https://manjaro.org/) (XFCE)(VSC)
   
 - [RedHat](https://www.redhat.com/)
-  - [Fedora](https://getfedora.org/)
+  - [Fedora](https://getfedora.org/) (GNOME)(VSC)
   - [CentOS](https://www.centos.org/)
-  - [Mageia](http://www.mageia.org//)
+  - [Mageia](http://www.mageia.org//) (KDE)(VSC)
   - [PCLinuxOS](http://www.pclinuxos.com/)
 
 - [Slackware](http://www.slackware.com)
-  - [openSUSE](https://www.opensuse.org/)
+  - [openSUSE](https://www.opensuse.org/)(KDE)(VSC)
   
 - [FreeBSD](https://www.freebsd.org/)
 
