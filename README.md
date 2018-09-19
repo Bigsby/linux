@@ -4,7 +4,7 @@ Linux stuff
 # Distros to Test
 - [Debian](https://www.debian.org/) (GNOME)(VSC)
   - [Ubuntu](https://www.ubuntu.com/) (GNOME)(VSC)
-    - [Mint](https://linuxmint.com/)
+    - [Mint](https://linuxmint.com/) (Cinnamon)(VSC)
     - [elementary OS](https://elementary.io/)
     - [ZorinOS](https://zorinos.com/)
     - [Ubuntu MATE](https://ubuntu-mate.org/)
