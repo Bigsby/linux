@@ -1,0 +1,571 @@
+[
+    {
+        "id": "unix",
+        "name": "Unix",
+        "created": "1969"
+    },
+    {
+        "id": "linux",
+        "name": "Linux",
+        "type": "kernel",
+        "url": "https://www.linux.com",
+        "basedon": "unix",
+        "created": "1991"
+    },
+    {
+        "id": "debian",
+        "name": "Debian",
+        "url": "https://www.debian.org/",
+        "kernel": "linux",
+        "created": "1993"
+    },
+    {
+        "id": "ubuntu",
+        "name": "Ubuntu",
+        "url": "https://www.ubuntu.com/",
+        "basedon": "debian",
+        "created": "2004"
+    },
+    {
+        "id": "mint",
+        "name": "Linux Mint",
+        "url": "https://linuxmint.com/",
+        "basedon": "ubuntu",
+        "created": "2006"
+    },
+    {
+        "id": "elementary",
+        "name": "elementary OS",
+        "url": "https://elementary.io/",
+        "basedon": "ubuntu",
+        "created": "2011"
+    },
+    {
+        "id": "zorin",
+        "name": "ZorinOS",
+        "url": "https://zorinos.com/",
+        "basedon": "ubuntu",
+        "created": "2008"
+    },
+    {
+        "id": "uMATE",
+        "name": "Ubuntu MATE",
+        "url": "https://ubuntu-mate.org/",
+        "basedon": "ubuntu",
+        "created": "2015"
+    },
+    {
+        "id": "lubuntu",
+        "name": "Lubuntu",
+        "url": "https://lubuntu.me/",
+        "basedon": "ubuntu",
+        "created": "2009"
+    },
+    {
+        "id": "kubuntu",
+        "name": "Kubuntu",
+        "url": "https://kubuntu.org/",
+        "basedon": "ubuntu",
+        "created": "2005"
+    },
+    {
+        "id": "linuxlite",
+        "name": "Linux Lite",
+        "url": "https://www.linuxliteos.com/",
+        "basedon": "ubuntu",
+        "created": "2012"
+    },
+    {
+        "id": "antix",
+        "name": "antiX",
+        "url": "https://antixlinux.com)",
+        "basedon": "simplymepis",
+        "created": "2007"
+    },
+    {
+        "id": "mxlinux",
+        "name": "MX Linux",
+        "url": "https://mxlinux.org/",
+        "basedon": ["debian", "antix", "simplymepis"],
+        "created": "2014"
+    },
+    {
+        "id": "solus", 
+        "name": "Solus",
+        "url": "https://getsol.us/home/",
+        "kernel": "linux",
+        "created": "2015"
+    },
+    {
+        "id": "kali",
+        "name": "Kali",
+        "url": "https://www.kali.org/",
+        "basedon": "kanotix",
+        "created": "2013"
+    },
+    {
+        "id": "tails",
+        "name": "Tails",
+        "url": "https://tails.boum.org/",
+        "basedon": "debian",
+        "created": "2009"
+    },
+    {
+        "id": "arch",
+        "name": "Arch Linux",
+        "url": "https://www.archlinux.org/",
+        "kernel": "linux",
+        "created": "2002"
+    },
+    {
+        "id": "manjaro", 
+        "name": "Manjaro",
+        "url": "https://manjaro.org/",
+        "basedon": "arch",
+        "created": "2011"
+    },
+    {
+        "id": "redhat",
+        "name": "Red Hat",
+        "url": "https://www.redhat.com/",
+        "kernel": "linux",
+        "created": "1994"
+    },
+    {
+        "id": "fedora",
+        "name": "Fedora",
+        "url": "https://getfedora.org/",
+        "basedon": "redhat",
+        "created": "2003"
+    },
+    {
+        "id": "centos",
+        "name": "CentOS",
+        "url": "https://www.centos.org/",
+        "basedon": "redhat",
+        "created": "2003"
+    },
+    {
+        "id": "mageia",
+        "name": "Mageia",
+        "url": "http://www.mageia.org/",
+        "basedon": "redhat",
+        "created": "2010"
+    },
+    {
+        "id": "pclinuxos",
+        "name": "PCLinuxOS",
+        "url": "http://www.pclinuxos.com/",
+        "basedon": "redhat",
+        "created": "2003"
+    },
+    {
+        "id": "sls",
+        "name": "SLS",
+        "kernel": "linux",
+        "created": "1992",
+        "discontinued": "1994"
+    },
+    {
+        "id": "slackware",
+        "name": "Slackware",
+        "url": "http://www.slackware.com",
+        "basedon": "sls",
+        "created": "1993"
+    },
+    {
+        "id": "suse",
+        "name": "SUSE",
+        "url": "https://www.suse.com/",
+        "basedon": "slackware",
+        "created": "1994"
+    },
+    {
+        "id": "opensuse",
+        "name": "openSUSE",
+        "url": "https://www.opensuse.org/",
+        "basedon": "suse",
+        "created": "2006"
+    },
+    {
+        "id": "freebsd",
+        "name": "FreeBSD",
+        "url": "http://www.freebsd.org/",
+        "basedon": "bsd"
+    },
+    {
+        "id": "openbsd",
+        "name": "OpenBSD",
+        "url": "http://www.openbsd.org/",
+        "basedon": "bsd"
+    },
+    {
+        "id": "netbsd",
+        "name": "NetBSD",
+        "url": "https://netbsd.org/",
+        "basedon": "bsd"
+    },
+    {
+        "id": "reactos",
+        "name": "ReactOS",
+        "url": "http://www.reactos.org/",
+        "created": "1998"
+    },
+    {
+        "id": "libranet",
+        "name": "Libranet",
+        "basedon": "debian",
+        "created": "1999",
+        "discontinued": "2005"
+    },
+    {
+        "id": "omoikane",
+        "name": "Omoikane",
+        "url": "http://www.omoikane.co.jp/",
+        "basedon": "debian",
+        "created": "2000"
+    },
+    {
+        "id": "knopix",
+        "name": "Knoppix",
+        "url": "http://knoppix.net/",
+        "basedon": "debian",
+        "created": "2000"
+    },
+    {
+        "id": "quantian",
+        "name": "Quantian",
+        "url": "http://dirk.eddelbuettel.com/quantian.html",
+        "basedon": "knoppix",
+        "created": "2003",
+        "discontinued": "2006"
+    },
+    {
+        "id": "dsl",
+        "name": "Damn Small Linux",
+        "url": "http://www.damnsmalllinux.org/",
+        "basedon": "knoppix",
+        "created": "2003",
+        "discontinued": "2015"
+    },
+    {
+        "id": "dvl",
+        "name": "Damn Vulnerable Linux",
+        "url": "www.damnvulnerablelinux.org",
+        "basedon": "dsl",
+        "created": "2006",
+        "discontinued": "2011"
+    },
+    {
+        "id": "knoppmyth",
+        "name": "KnoppMyth",
+        "basedon": "knoppix",
+        "created": "2003",
+        "discontinued": "2009"
+    },
+    {
+        "id": "danix",
+        "name": "Danix",
+        "url": "https://www.danix.cz/",
+        "basedon": "knoppix",
+        "created": "2003",
+        "discontinued": "2008"
+    },
+    {
+        "id": "kanotix",
+        "name": "Knotix",
+        "url": "http://www.kanotix.com/",
+        "basedon": "knoppix",
+        "created": "2003"
+    },
+    {
+        "id": "parsix",
+        "name": "Parsix",
+        "url": "www.parsix.org/",
+        "basedon": "kanotix",
+        "created": "2005"
+    },
+    {
+        "id": "auditorsl",
+        "name": "Auditor Security Linux",
+        "basedon": "kanotix",
+        "created": "2004",
+        "discontinued": "2006",
+        "renamed": "backtrack"
+    },
+    {
+        "id": "backtrack",
+        "name": "Backtrack",
+        "url": "https://www.backtrack-linux.org/",
+        "basedon": "kanotix",
+        "created": "2006",
+        "discontinued": "2013",
+        "renamed": "kali"
+    },
+    {
+        "id": "b2d",
+        "name": "B2D",
+        "url": "https://b2d-linux.com/",
+        "basedon": "knoppix",
+        "created": "2004",
+        "discontinued": "2010"
+    },
+    {
+        "id": "whoppix",
+        "name": "Whoppix",
+        "basedon" : "knoppix",
+        "created": "2004",
+        "discontinued": "2005",
+        "renamed": "whax"
+    },
+    {
+        "id": "whax",
+        "name": "WHAX",
+        "basedon": "knoppix",
+        "created": "2005",
+        "discontinued": "2006",
+        "merged": "auditorsl"
+    },
+    {
+        "id": "symphonyos",
+        "name": "Symphony OS",
+        "url": "http://ww1.symphonyos.com/",
+        "basedon": "knoppix",
+        "created": "2005"
+    },
+    {
+        "id": "musix",
+        "name": "Musix",
+        "url": "https://musixdistro.wordpress.com/",
+        "basedon": "knoppix",
+        "created": "2005",
+        "discontinued": "2017"
+    },
+    {
+        "id": "parallel",
+        "name": "ParallelKnoppix",
+        "basedon": "knoppix",
+        "created": "2005",
+        "discontinued": "2008",
+        "merged": "pelicanhpc"
+    },
+    {
+        "id": "kaella",
+        "name": "Kaella",
+        "basedon": "knoppix",
+        "created": "2004",
+        "discontinued": "2008"
+    },
+    {
+        "id": "max",
+        "name": "MAX",
+        "basedon": "knoppix",
+        "created": "2004"
+    },
+    {
+        "id": "feather",
+        "name": "Feather",
+        "basedon": "knoppix",
+        "created": "2003",
+        "discontinued": "2005"
+    },
+    {
+        "id": "Medialinux",
+        "name": "Medialinux",
+        "basedon": "knoppix",
+        "created": "2003",
+        "discontinued": "2004",
+        "renamed": "medialinux"
+    },
+    {
+        "id": "medialinux",
+        "name": "Medialinux",
+        "basedon": "debian",
+        "created": "2004",
+        "discontinued": "2006",
+        "renamed": "artistx"
+    },
+    {
+        "id": "artistx",
+        "name": "ArtistX",
+        "url": "http://www.artistx.org/",
+        "basedon": "ubuntu",
+        "created": "2006",
+        "discontinued": "2014"
+    },
+    {
+        "id": "insert",
+        "name": "INSERT",
+        "basedon": "knoppix",
+        "created": "2003",
+        "discontinued": "2007"
+    },
+    {
+        "id": "morphix",
+        "name": "Morphix",
+        "basedon": "knoppix",
+        "created": "2003",
+        "discontinued": "2010"
+    },
+    {
+        "id": "aquamorph",
+        "name": "Aquamorph",
+        "url": "https://aquariusoft.org/page/linux/aquamorph/",
+        "basedon": "morphix",
+        "created": "2004",
+        "discontinued": "2007"
+    },
+    {
+        "id": "dreamlinux",
+        "name": "Dreamlinux",
+        "basedon": "morphix",
+        "created": "2006",
+        "discontinued": "2012"
+    },
+    {
+        "id": "zonecd",
+        "name": "ZoneCD",
+        "basedon": "morphix",
+        "created": "2004",
+        "discontinued": "2006"
+    },
+    {
+        "id": "hiwix",
+        "name": "Hiwix",
+        "basedon": "morphix",
+        "created": "2004",
+        "discontinued": "2004",
+        "renamed": "hiweed"
+    },
+    {
+        "id": "hiweed",
+        "name": "Hiweed Linux",
+        "basedon": "morphix",
+        "created": "2004",
+        "discontinued": "2009",
+        "renamed": "deepin"
+    },
+    {
+        "id": "deepin",
+        "name": "Deepin",
+        "url": "https://www.deepin.org/",
+        "basedon": "debian",
+        "created": "2009"
+    },
+    {
+        "id": "kurumin",
+        "name": "Kurumin",
+        "basedon": "morphix",
+        "created": "2003",
+        "discontinued": "2009"
+    },
+    {
+        "id": "kalango",
+        "name": "Kalango",
+        "basedon": "kurumin",
+        "created": "2004",
+        "discontinued": "2006"
+    },
+    {
+        "id": "poseidon",
+        "name": "Poseidon",
+        "basedon": "kurumin",
+        "created": "2005",
+        "discontinued": "2012"
+    },
+    {
+        "id": "dizinha",
+        "name": "Dizinha",
+        "basedon": "kurumin",
+        "created": "2004",
+        "discontinued": "2008"
+    },
+    {
+        "id": "patinho",
+        "name": "NeoDizinha Patinho Faminto",
+        "basedon": "dizinha",
+        "created": "2006",
+        "discontinued": "2009"
+    },
+    {
+        "id": "skole",
+        "name": "Skolelinux",
+        "basedon": "debian",
+        "created": "2001",
+        "discontinued": "2016",
+        "renamed": "debianedu"
+    },
+    {
+        "id": "debianedu",
+        "name": "DebianEdu",
+        "url": "https://wiki.debian.org/DebianEdu/",
+        "basedon": "debian",
+        "created": "2016"
+    },
+    {
+        "id": "lindows",
+        "name": "Lindows",
+        "basedon": "debian",
+        "created": "2001",
+        "discontinued": "2004",
+        "renamed": "linspire"
+    },
+    {
+        "id": "linspire",
+        "name": "Linspire",
+        "basedon": "debian",
+        "created": "2004",
+        "discontinued": "2008",
+        "merged": "ubunto"
+    },
+    {
+        "id": "freespire",
+        "name": "Freespire",
+        "basedon": "linspire",
+        "created": "2006",
+        "discontinued": "2008"
+    },
+    {
+        "id": "rxart",
+        "name": "Rxart",
+        "basedon": "debian",
+        "created": "2002"
+    },
+    {
+        "id": "mepis",
+        "name": "MEPIS",
+        "basedon": "debian",
+        "created": "2003",
+        "discontinued": "2004",
+        "renamed": "simplymepis"
+    },
+    {
+        "id": "simplymepis",
+        "name": "SimplyMEPIS",
+        "basedon": "debian",
+        "created": "2004",
+        "discontinued": "2016",
+        "merged": "mxlinux"
+    },
+    {
+        "id": "swift",
+        "name": "Swift Linux",
+        "url": "http://www.swiftlinux.org/",
+        "basedon": "antix",
+        "created": "2010"
+    },
+    {
+        "id": "impi",
+        "name": "Impi Linux",
+        "basedon": "debian",
+        "created": "2003",
+        "discontinued": "2006"
+    },
+    {
+        "id": "bluewall",
+        "name": "Bluewall",
+        "basedon": "debian",
+        "created": "2004",
+        "discontinued": "2006"
+    }
+]

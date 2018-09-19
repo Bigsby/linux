@@ -9,19 +9,20 @@ Linux stuff
     - [ZorinOS](https://zorinos.com/)
     - [Ubuntu MATE](https://ubuntu-mate.org/)
     - [Lubuntu](https://lubuntu.me/)
+    - [Kubuntu](https://kubuntu.org/)
+    - [Linux Lite](https://www.linuxliteos.com/)
   - [anitX](https://antixlinux.com)
     - [MX Linux](https://mxlinux.org/)
-  - [Solus](https://getsol.us/home/)
   - [Kali](https://www.kali.org/)
   - [Tails](https://tails.boum.org/)
   
 - [Arch Linux](https://www.archlinux.org/)
   - [Manjaro](https://manjaro.org/)
   
-- [RedHat](https://www.redhat.com/en)
+- [RedHat](https://www.redhat.com/)
   - [Fedora](https://getfedora.org/)
-    - [CentOS](https://www.centos.org/)
-  - [Mageia](http://www.mageia.org/en/)
+  - [CentOS](https://www.centos.org/)
+  - [Mageia](http://www.mageia.org//)
   - [PCLinuxOS](http://www.pclinuxos.com/)
 
 - [Slackware](http://www.slackware.com)
@@ -29,6 +30,7 @@ Linux stuff
   
 - [FreeBSD](https://www.freebsd.org/)
 
+- [Solus](https://getsol.us/home/)
 
 - [ReactOS](http://www.reactos.org/)
 
