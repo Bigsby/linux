@@ -49,3 +49,5 @@ Linux stuff
 - [Pantheon](https://wiki.archlinux.org/index.php/Pantheon)
 - [LXQt](https://lxqt.org/)
 - [Budgie](https://getsol.us/solus/experiences/)
+
+[Ubuntu DEs list](https://www.ubuntupit.com/best-linux-desktop-environment-reviewed-and-compared/)
