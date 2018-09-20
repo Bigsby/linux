@@ -17,7 +17,7 @@ Linux stuff
   - [Tails](https://tails.boum.org/)
   
 - [Arch Linux](https://www.archlinux.org/)
-  - [Manjaro](https://manjaro.org/) (XFCE)(VSC)(dotnet)
+  - [Manjaro](https://manjaro.org/) (XFCE)(VSC)(dotnet)([dotnet-web](https://stackoverflow.com/questions/44117840/can-i-set-listen-urls-in-appsettings-json-in-asp-net-core-2-0-preview))
   
 - [RedHat](https://www.redhat.com/)
   - [Fedora](https://getfedora.org/) (GNOME)(VSC)
