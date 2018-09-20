@@ -8,7 +8,7 @@ Linux stuff
     - [elementary OS](https://elementary.io/) (Pantheon)
     - [ZorinOS](https://zorinos.com/)
     - [Ubuntu MATE](https://ubuntu-mate.org/) (MATE)(VSC)
-    - [Lubuntu](https://lubuntu.me/)
+    - [Lubuntu](https://lubuntu.me/) (LXDE)(VSC)(dotnet)(dotnet-web)
     - [Kubuntu](https://kubuntu.org/)
     - [Linux Lite](https://www.linuxliteos.com/)
   - [anitX](https://antixlinux.com)
