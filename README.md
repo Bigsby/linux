@@ -9,7 +9,7 @@ Linux stuff
     - [ZorinOS](https://zorinos.com/)
     - [Ubuntu MATE](https://ubuntu-mate.org/) (MATE)(VSC)
     - [Lubuntu](https://lubuntu.me/) (LXDE)(VSC)(dotnet)(dotnet-web)
-    - [Kubuntu](https://kubuntu.org/)
+    - [Kubuntu](https://kubuntu.org/) (KDE)(VSC)(dotnet)(dotnet-web)
     - [Linux Lite](https://www.linuxliteos.com/)
   - [anitX](https://antixlinux.com)
     - [MX Linux](https://mxlinux.org/)
