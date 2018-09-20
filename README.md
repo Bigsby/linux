@@ -17,7 +17,7 @@ Linux stuff
   - [Tails](https://tails.boum.org/)
   
 - [Arch Linux](https://www.archlinux.org/)
-  - [Manjaro](https://manjaro.org/) (XFCE)(VSC)
+  - [Manjaro](https://manjaro.org/) (XFCE)(VSC)(dotnet)
   
 - [RedHat](https://www.redhat.com/)
   - [Fedora](https://getfedora.org/) (GNOME)(VSC)
