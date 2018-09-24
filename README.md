@@ -3,7 +3,7 @@ Linux stuff
 
 # Tested Distros
 
-!Name|Base|CE|VSC|dotnet|web|menu|dark|background|icons|date|term|vm|switch|sudo|
+!Name|Base|DE|VSC|dotnet|web|menu|dark|background|icons|date|term|vm|switch|sudo|
 |---|---|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |[Debian](https://www.debian.org/)||GNOME|X|X|X|X|X|gsettings|gsettings|**O**|settings|**O**|X|**O**|
 |[Ubuntu](https://www.ubuntu.com/)|Debian|GNOME|X|X|X|X|X|gsettings|gsettings|**O**|X|X|X|X|
@@ -34,41 +34,21 @@ Linux stuff
 |[ReactOS](http://www.reactos.org/)|
 
 
+> Labels:
+>- **DE** - default Desktop Environment
+>- **VSC** - runs Visual Studio Code
+>- **dotnet** - runs and debugs .Net
+>- **web** - runs and debugs .Net web app
+>- **menu** - has shortcut to search and open apps
+>- **dark** - has a dark theme
+>- **background** - allows custom color background
+>- **icons** - allows removing icons from desktop
+>- **date** - allows YYY-MM-DD HH:mm date display
+>- **term** - allows terminal shortcut
+>- **Vm** - auto resizes in Virtual Machine
+>- **switch** - shortcut to swtich/cycle opened apps
+>- **sudo** - has sudo installed
 
-## List
-- [Debian](https://www.debian.org/) (GNOME)(VSC)(dotnet)(dot-web) 1, 2, **3 (gsettings)**, 4, **~~5~~**, **6 (settings)**, **~~7~~**, 8, **~~9~~**
-  - [Ubuntu](https://www.ubuntu.com/) (GNOME)(VSC)
-    - [Mint](https://linuxmint.com/) (Cinnamon)(VSC)
-    - [elementary OS](https://elementary.io/) (Pantheon)(VSC)(dotnet)(dot-web) 1 (win+space), **~~2~~**, 3, 4, **~~5~~**, 6 (win+T), 7, 8, 9
-    - [ZorinOS](https://zorinos.com/)
-    - [Lubuntu](https://lubuntu.me/) (LXDE)(VSC)(dotnet)(dot-web) **~~1~~**, 2, 3, 4, 5, 6, **~~7~~**, 8, 9
-    - [Kubuntu](https://kubuntu.org/) (KDE)(VSC)(dotnet)(dot-web) 1, 2, 3, 4, 5, **6 (settings)**, 7, 8, 9
-    - [Linux Lite](https://www.linuxliteos.com/) (XFCE)(VSC)(dotnet)(dot-web) 1, 2, 3, 4, 5, 6, 7, 8, 9
-    - [Xubuntu](https://xubuntu.org/)(XFCE)(VCS)(dotnet)(dot-web) 1 (ctrl+esc), 2 (settings: appearance, windows manager), 3, 4, 5, 6, **~~7~~**[not working](https://askubuntu.com/questions/22743/how-do-i-install-guest-additions-in-a-virtualbox-vm), 8, 9
-    - [Ubuntu MATE](https://ubuntu-mate.org/) (MATE)(VSC)(dotnet)(dot-web) 1, 2, 3, 4, **~~5~~**, 6, 7(MATE Tweak), 8, 9
-    - [Deepin](https://www.deepin.org/)
-  - [anitX](https://antixlinux.com)
-    - [MX Linux](https://mxlinux.org/)
-  - [Kali](https://www.kali.org/)
-  - [Tails](https://tails.boum.org/)
-  
-- [Arch Linux](https://www.archlinux.org/)
-  - [Manjaro](https://manjaro.org/) (XFCE)(VSC)(dotnet)([dot-web](https://stackoverflow.com/questions/44117840/can-i-set-listen-urls-in-appsettings-json-in-asp-net-core-2-0-preview))
-  
-- [RedHat](https://www.redhat.com/)
-  - [Fedora](https://getfedora.org/) (GNOME)(VSC)
-  - [CentOS](https://www.centos.org/)
-  - [Mageia](http://www.mageia.org//) (KDE)(VSC)(**~~dotnet~~**)(**~~dot-web~~**) 1, 2, 3, 4, 5, **6 (settings)**, 7, 8, 9
-  - [PCLinuxOS](http://www.pclinuxos.com/)
-
-- [Slackware](http://www.slackware.com)
-  - [openSUSE](https://www.opensuse.org/)(KDE)(VSC)
-  
-- [FreeBSD](https://www.freebsd.org/)
-
-- [Solus](https://getsol.us/home/)
-
-- [ReactOS](http://www.reactos.org/)
 
 # Desktop Environments to Test
 - [Cinnamon](https://cinnamon-spices.linuxmint.com/)
