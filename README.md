@@ -43,7 +43,7 @@ Linux stuff
 >- **dark** - has a dark theme
 >- **background** - allows custom color background
 >- **icons** - allows removing icons from desktop
->- **date** - allows YYY-MM-DD HH:mm date display
+>- **date** - allows YYYY-MM-DD HH:mm date display
 >- **term** - allows terminal shortcut
 >- **Vm** - auto resizes in Virtual Machine
 >- **switch** - shortcut to swtich/cycle opened apps
