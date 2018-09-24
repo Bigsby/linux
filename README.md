@@ -5,7 +5,7 @@ Linux stuff
 - [Debian](https://www.debian.org/) (GNOME)(VSC)
   - [Ubuntu](https://www.ubuntu.com/) (GNOME)(VSC)
     - [Mint](https://linuxmint.com/) (Cinnamon)(VSC)
-    - [elementary OS](https://elementary.io/) (Pantheon)
+    - [elementary OS](https://elementary.io/) (Pantheon)(VSC)(dot-net)(dotnet-web)
     - [ZorinOS](https://zorinos.com/)
     - [Ubuntu MATE](https://ubuntu-mate.org/) (MATE)(VSC)
     - [Lubuntu](https://lubuntu.me/) (LXDE)(VSC)(dotnet)(dotnet-web)
