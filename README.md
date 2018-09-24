@@ -9,7 +9,7 @@ Linux stuff
     - [ZorinOS](https://zorinos.com/)
     - [Ubuntu MATE](https://ubuntu-mate.org/) (MATE)(VSC)
     - [Lubuntu](https://lubuntu.me/) (LXDE)(VSC)(dotnet)(dot-web) **~~1~~**, 2, 3, 4, 5, 6, **~~7~~**, 8, 9
-    - [Kubuntu](https://kubuntu.org/) (KDE)(VSC)(dotnet)(dot-web)
+    - [Kubuntu](https://kubuntu.org/) (KDE)(VSC)(dotnet)(dot-web) 1, 2, 3, 4, 5, **6 (settings)**, 7, 8, 9
     - [Linux Lite](https://www.linuxliteos.com/) (XFCE)(VSC)(dotnet)(dot-web)
     - [Xubuntu](https://xubuntu.org/)(XFCE)(VCS)(dotnet)(dot-web)
     - [Deepin](https://www.deepin.org/)
