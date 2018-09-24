@@ -11,6 +11,8 @@ Linux stuff
     - [Lubuntu](https://lubuntu.me/) (LXDE)(VSC)(dotnet)(dotnet-web)
     - [Kubuntu](https://kubuntu.org/) (KDE)(VSC)(dotnet)(dotnet-web)
     - [Linux Lite](https://www.linuxliteos.com/) (XFCE)(VSC)(dotnet)(dot-web)
+    - [Xubuntu](https://xubuntu.org/)(XFCE)(VCS)(dotnet)(dot-web)
+    - [Deepin](https://www.deepin.org/)
   - [anitX](https://antixlinux.com)
     - [MX Linux](https://mxlinux.org/)
   - [Kali](https://www.kali.org/)
@@ -51,3 +53,12 @@ Linux stuff
 - [Budgie](https://getsol.us/solus/experiences/)
 
 [Ubuntu DEs list](https://www.ubuntupit.com/best-linux-desktop-environment-reviewed-and-compared/)
+
+## DE requirements:
+- Menu/Apps shorcut (Win-key)
+- Darktheme
+- Solid Color background
+- No icons in desktop
+- Customizable date format
+- Terminal Shortcut
+- Resize VM
