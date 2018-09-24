@@ -2,14 +2,14 @@
 Linux stuff
 
 # Distros to Test
-- [Debian](https://www.debian.org/) (GNOME)(VSC)
-  - [Ubuntu](https://www.ubuntu.com/) (GNOME)(VSC)
+- [Debian](https://www.debian.org/) (GNOME)(VSC)(dotnet)(dot-web) 1, 2, **3 (gsettings)**, 4, **~~5~~**, **6 (settings)**, **~~7~~**, 8, **~~9~~**
+    - [Ubuntu](https://www.ubuntu.com/) (GNOME)(VSC)
     - [Mint](https://linuxmint.com/) (Cinnamon)(VSC)
-    - [elementary OS](https://elementary.io/) (Pantheon)(VSC)(dot-net)(dotnet-web)
+    - [elementary OS](https://elementary.io/) (Pantheon)(VSC)(dotnet)(dot-web)
     - [ZorinOS](https://zorinos.com/)
     - [Ubuntu MATE](https://ubuntu-mate.org/) (MATE)(VSC)
-    - [Lubuntu](https://lubuntu.me/) (LXDE)(VSC)(dotnet)(dotnet-web)
-    - [Kubuntu](https://kubuntu.org/) (KDE)(VSC)(dotnet)(dotnet-web)
+    - [Lubuntu](https://lubuntu.me/) (LXDE)(VSC)(dotnet)(dot-web)
+    - [Kubuntu](https://kubuntu.org/) (KDE)(VSC)(dotnet)(dot-web)
     - [Linux Lite](https://www.linuxliteos.com/) (XFCE)(VSC)(dotnet)(dot-web)
     - [Xubuntu](https://xubuntu.org/)(XFCE)(VCS)(dotnet)(dot-web)
     - [Deepin](https://www.deepin.org/)
@@ -19,12 +19,12 @@ Linux stuff
   - [Tails](https://tails.boum.org/)
   
 - [Arch Linux](https://www.archlinux.org/)
-  - [Manjaro](https://manjaro.org/) (XFCE)(VSC)(dotnet)([dotnet-web](https://stackoverflow.com/questions/44117840/can-i-set-listen-urls-in-appsettings-json-in-asp-net-core-2-0-preview))
+  - [Manjaro](https://manjaro.org/) (XFCE)(VSC)(dotnet)([dot-web](https://stackoverflow.com/questions/44117840/can-i-set-listen-urls-in-appsettings-json-in-asp-net-core-2-0-preview))
   
 - [RedHat](https://www.redhat.com/)
   - [Fedora](https://getfedora.org/) (GNOME)(VSC)
   - [CentOS](https://www.centos.org/)
-  - [Mageia](http://www.mageia.org//) (KDE)(VSC)
+  - [Mageia](http://www.mageia.org//) (KDE)(VSC)(~~dotnet~~)(~~dot-web~~) 1, 2, 3, 4, 5, **6 (settings)**, 7, 8, 9
   - [PCLinuxOS](http://www.pclinuxos.com/)
 
 - [Slackware](http://www.slackware.com)
@@ -41,7 +41,7 @@ Linux stuff
 - [Unity](https://unity8.io/)
 - [GNOME](https://www.gnome.org/)
 - [KDE](https://www.kde.org/)
-  - [KDE Plasma](https://www.kde.org/plasma-desktop)
+  - [KDE Plasma](https://www.kde.org/plasma-desktop)https://community.c9.io/t/installing-apt-transport-https-issue/10994
   - [Trinity](https://www.trinitydesktop.org/)
 - [XFCE](https://xfce.org/)
 - [LXDE](https://lxde.org/)
@@ -61,4 +61,7 @@ Linux stuff
 4. No icons in desktop
 5. Customizable date format
 6. Terminal Shortcut
-7. Resize VM
+7. Resize VM screen
+8. Alt+Tab cycle apps
+9. sudo
+10. user in sudo
