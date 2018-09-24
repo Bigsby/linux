@@ -5,7 +5,7 @@ Linux stuff
 - [Debian](https://www.debian.org/) (GNOME)(VSC)(dotnet)(dot-web) 1, 2, **3 (gsettings)**, 4, **~~5~~**, **6 (settings)**, **~~7~~**, 8, **~~9~~**
     - [Ubuntu](https://www.ubuntu.com/) (GNOME)(VSC)
     - [Mint](https://linuxmint.com/) (Cinnamon)(VSC)
-    - [elementary OS](https://elementary.io/) (Pantheon)(VSC)(dotnet)(dot-web)
+    - [elementary OS](https://elementary.io/) (Pantheon)(VSC)(dotnet)(dot-web) 1 (win+space), **~~2~~**, 3, 4, **~~5~~**, 6 (win+T), 7, 8, 9
     - [ZorinOS](https://zorinos.com/)
     - [Ubuntu MATE](https://ubuntu-mate.org/) (MATE)(VSC)
     - [Lubuntu](https://lubuntu.me/) (LXDE)(VSC)(dotnet)(dot-web)
@@ -24,7 +24,7 @@ Linux stuff
 - [RedHat](https://www.redhat.com/)
   - [Fedora](https://getfedora.org/) (GNOME)(VSC)
   - [CentOS](https://www.centos.org/)
-  - [Mageia](http://www.mageia.org//) (KDE)(VSC)(~~dotnet~~)(~~dot-web~~) 1, 2, 3, 4, 5, **6 (settings)**, 7, 8, 9
+  - [Mageia](http://www.mageia.org//) (KDE)(VSC)(**~~dotnet~~**)(**~~dot-web~~**) 1, 2, 3, 4, 5, **6 (settings)**, 7, 8, 9
   - [PCLinuxOS](http://www.pclinuxos.com/)
 
 - [Slackware](http://www.slackware.com)
@@ -64,4 +64,3 @@ Linux stuff
 7. Resize VM screen
 8. Alt+Tab cycle apps
 9. sudo
-10. user in sudo
