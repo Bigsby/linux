@@ -8,7 +8,7 @@ Linux stuff
     - [elementary OS](https://elementary.io/) (Pantheon)(VSC)(dotnet)(dot-web) 1 (win+space), **~~2~~**, 3, 4, **~~5~~**, 6 (win+T), 7, 8, 9
     - [ZorinOS](https://zorinos.com/)
     - [Ubuntu MATE](https://ubuntu-mate.org/) (MATE)(VSC)
-    - [Lubuntu](https://lubuntu.me/) (LXDE)(VSC)(dotnet)(dot-web)
+    - [Lubuntu](https://lubuntu.me/) (LXDE)(VSC)(dotnet)(dot-web) **~~1~~**, 2, 3, 4, 5, 6, **~~7~~**, 8, 9
     - [Kubuntu](https://kubuntu.org/) (KDE)(VSC)(dotnet)(dot-web)
     - [Linux Lite](https://www.linuxliteos.com/) (XFCE)(VSC)(dotnet)(dot-web)
     - [Xubuntu](https://xubuntu.org/)(XFCE)(VCS)(dotnet)(dot-web)
