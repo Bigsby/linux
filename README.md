@@ -10,7 +10,7 @@ Linux stuff
     - [Ubuntu MATE](https://ubuntu-mate.org/) (MATE)(VSC)
     - [Lubuntu](https://lubuntu.me/) (LXDE)(VSC)(dotnet)(dotnet-web)
     - [Kubuntu](https://kubuntu.org/) (KDE)(VSC)(dotnet)(dotnet-web)
-    - [Linux Lite](https://www.linuxliteos.com/)
+    - [Linux Lite](https://www.linuxliteos.com/) (XFCE)(VSC)(dotnet)(dot-web)
   - [anitX](https://antixlinux.com)
     - [MX Linux](https://mxlinux.org/)
   - [Kali](https://www.kali.org/)
