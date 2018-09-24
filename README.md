@@ -55,10 +55,10 @@ Linux stuff
 [Ubuntu DEs list](https://www.ubuntupit.com/best-linux-desktop-environment-reviewed-and-compared/)
 
 ## DE requirements:
-- Menu/Apps shorcut (Win-key)
-- Darktheme
-- Solid Color background
-- No icons in desktop
-- Customizable date format
-- Terminal Shortcut
-- Resize VM
+1. Menu/Apps shorcut (Win-key)
+2. Darktheme
+3. Solid Color background
+4. No icons in desktop
+5. Customizable date format
+6. Terminal Shortcut
+7. Resize VM
