@@ -12,6 +12,7 @@ Linux stuff
     - [Kubuntu](https://kubuntu.org/) (KDE)(VSC)(dotnet)(dot-web) 1, 2, 3, 4, 5, **6 (settings)**, 7, 8, 9
     - [Linux Lite](https://www.linuxliteos.com/) (XFCE)(VSC)(dotnet)(dot-web) 1, 2, 3, 4, 5, 6, 7, 8, 9
     - [Xubuntu](https://xubuntu.org/)(XFCE)(VCS)(dotnet)(dot-web) 1 (ctrl+esc), 2 (settings: appearance, windows manager), 3, 4, 5, 6, **~~7~~**[not working](https://askubuntu.com/questions/22743/how-do-i-install-guest-additions-in-a-virtualbox-vm), 8, 9
+    - [Ubuntu MATE](https://ubuntu-mate.org/) (MATE)(VSC)(dotnet)(dot-web) 1, 2, 3, 4, **~~5~~**, 6, 7(MATE Tweak), 8, 9
     - [Deepin](https://www.deepin.org/)
   - [anitX](https://antixlinux.com)
     - [MX Linux](https://mxlinux.org/)
