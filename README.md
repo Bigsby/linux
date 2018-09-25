@@ -3,8 +3,8 @@ Linux stuff
 
 # Tested Distros
 
-!name|base|ver|kernel|de|vsc|dotnet|web|menu|dark|background|icons|date|term|vm|switch|sudo|
-|---|---|---|---|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|name|base|ver|kernel|de|vsc|dotnet|web|menu|dark|background|icons|date|term|vm|switch|sudo|
+|---|---|---:|---:|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |[Debian](https://www.debian.org/)||||GNOME|X|X|X|X|X|gsettings|gsettings|**O**|settings|**O**|X|**O**|
 |[Ubuntu](https://www.ubuntu.com/)|Debian|18.04||GNOME|X|X|X|X|X|gsettings|gsettings|**O**|X|X|X|X|
 |[Mint](https://linuxmint.com/)|Ubuntu|||Cinnamon|X|
