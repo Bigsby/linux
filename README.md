@@ -11,7 +11,7 @@ Linux stuff
 |[elementary OS](https://elementary.io/)|Ubuntu|||Pantheon|X|X|X|win+space|**O**|X|X|**O**|win+T|X|X|X|
 |[ZorinOS](https://zorinos.com/)|Ubuntu|
 |[Lubuntu](https://lubuntu.me/)|Ubuntu|||LXDE|X|X|X|**O**|X|X|X|X|X|**O**|X|X|
-|[Kubuntu](https://kubuntu.org/)|Ubuntu|||KDE|X|X|X|X|X|X|X|X|settings|X|X|X|
+|[Kubuntu](https://kubuntu.org/)|Ubuntu|18.04|4.15|KDE|X|X|X|X|X|X|X|X|settings|X|X|X|
 |[Linux Lite](https://www.linuxliteos.com/)|Ubuntu|4.0|4.15|XFCE|X|X|X|X|X|X|X|X|X|X|X|X|
 |[Xubuntu](https://xubuntu.org/)|Ubuntu|||XFCE|X|X|X|ctrl+esc|settings|X|X|X|X|**O**|X|X|
 |[Ubuntu MATE](https://ubuntu-mate.org/)|Ubuntu|||MATE|X|X|X|X|X|X|X|**O**|X|X|X|X|
