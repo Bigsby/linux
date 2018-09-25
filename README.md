@@ -32,7 +32,7 @@ Linux stuff
 |[Slackware](http://www.slackware.com)|
 |[openSUSE](https://www.opensuse.org/)|Slackware|||KDE|X|
 |[FreeBSD](https://www.freebsd.org/)|
-|[Solus](https://getsol.us/home/)|
+|[Solus](https://getsol.us/home/)||3.9|4.18|
 |[ReactOS](http://www.reactos.org/)|
 
 
