@@ -37,26 +37,38 @@ Linux stuff
 |[Solus](https://getsol.us/home/)||3.9999|4.18|Budgie|X<sup>[5]</sup>|**O**|**O**|X|X<sup>[6]</sup>|X<sup>[7]</sup>|X<sup>[8]</sup>|1/2|X<sup>[9]</sup>|X|X|X|
 |[ReactOS](http://www.reactos.org/)|
 
-> Notes:
-> 
-> <sup>[1]</sup> Configurable to Win key.
-> <sup>[2]</sup> KDE Themes. Not all windows' background change.
-> <sup>[3]</sup> Date/Time formatting.
-> <sup>[4]</sup> Control Panel > Regional & Accessibility > Keyboard Shortcuts > Command Shortcuts (tab).
-> <sup>[5]</sup> Install from tar. $ sudo eopkg gconf.
-> <sup>[6]</sup> Budgie Desktop Settings.
-> <sup>[7]</sup> $ gsettings set org.gnome.desktop.background primary-color '#152233'.
-> <sup>[7.5]</sup> $ gsettings set org.cinnamon.desktop.background primary-color '#152215'.
-> <sup>[8]</sup> $ gsettings set org.gnome.desktop.background show-desktop-icons false.
-> <sup>[9]</sup> Settings > Keyboard > Add shortcut. [gsettings alternative](https://askubuntu.com/questions/597395/how-to-set-custom-keyboard-shortcuts-from-terminal) 
-> <sup>[10]</sup> Needs manual installation from mounted ISO and missing packages.
-> <sup>[11]</sup> gsettings set org.gnome.desktop.interface gtk-theme 'Adwaita-dark'
-> <sup>[12]</sup> gsettings set org.gnome.desktop.interface clock-show-date true
-> <sup>[13]</sup> Menu > Preferences > Customize Look and Feel.
-> <sup>[14]</sup> sudo apt-get install liblttng-ust0
-> <sup>[15]</sup> Settings Maanger > Appearance & Settings Manager > Windows Manager
+> **Notes:**  
+<sup>[1]</sup> Configurable to Win key.  
+<sup>[2]</sup> KDE Themes. Not all windows' background change.  
+<sup>[3]</sup> Date/Time formatting.  
+<sup>[4]</sup> Control Panel > Regional & Accessibility > Keyboard Shortcuts > Command Shortcuts (tab).  
+<sup>[5]</sup> Install from tar. $ sudo eopkg gconf.  
+<sup>[6]</sup> Budgie Desktop Settings.  
+<sup>[7]</sup> $ gsettings set org.gnome.desktop.background primary-color '#152233'.  
+<sup>[7.5]</sup> $ gsettings set org.cinnamon.desktop.background primary-color '#152215'.  
+<sup>[8]</sup> $ gsettings set org.gnome.desktop.background show-desktop-icons false.  
+<sup>[9]</sup> Settings > Keyboard > Add shortcut. [gsettings alternative](https://askubuntu.com/questions/597395/how-to-set-custom-keyboard-shortcuts-from-terminal)   
+<sup>[10]</sup> Needs manual installation from mounted ISO and missing packages.  
+<sup>[11]</sup> gsettings set org.gnome.desktop.interface gtk-theme 'Adwaita-dark'  
+<sup>[12]</sup> gsettings set org.gnome.desktop.interface clock-show-date true  
+<sup>[13]</sup> Menu > Preferences > Customize Look and Feel.  
+<sup>[14]</sup> sudo apt-get install liblttng-ust0  
+<sup>[15]</sup> Settings Maanger > Appearance & Settings Manager > Windows Manager
 
-> Labels: **de** - default Desktop Environment; **vsc** - runs Visual Studio Code; **dotnet** - runs and debugs .Net; **web** - runs and debugs .Net web app; **menu** - has shortcut to search and open apps; **dark** - has a dark theme; **bkgd** - allows custom color background; **icons** - allows removing icons from desktop; **date** - allows YYYY-MM-DD HH:mm date display; **term** - allows terminal shortcut; **Vm** - auto resizes in Virtual Machine; **switch** - shortcut to swtich/cycle opened apps; **sudo** - has sudo installed
+> **Labels:**  
+**de** - default Desktop Environment;  
+**vsc** - runs Visual Studio Code;  
+**dotnet** - runs and debugs .Net;  
+**web** - runs and debugs .Net web app;  
+**menu** - has shortcut to search and open apps;  
+**dark** - has a dark theme;  
+**bkgd** - allows custom color background;  
+**icons** - allows removing icons from desktop;  
+**date** - allows YYYY-MM-DD HH:mm date display;  
+**term** - allows terminal shortcut;  
+**Vm** - auto resizes in Virtual Machine;  
+**switch** - shortcut to swtich/cycle opened apps;  
+**sudo** - has sudo installed
 
 
 # Desktop Environments to Test
