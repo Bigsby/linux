@@ -17,9 +17,9 @@ Linux stuff
 |[Ubuntu MATE](https://ubuntu-mate.org/)|Ubuntu|18.04|4.15|MATE|X|X|X|X|X|X|X|**O**|X|X|X|X|
 |[Deepin](https://www.deepin.org/)|Ubuntu|15.7|4.15|Deepin|X|X|X|X|X|X|X|**O**|X|X<sup>[10]</sup>|X|X|
 |[anitX](https://antixlinux.com)|Debian|
-|[MX Linux](https://mxlinux.org/)|antiX|
-|[Kali](https://www.kali.org/)|Debian|
-|[Tails](https://tails.boum.org/)|Debian|
+|[MX Linux](https://mxlinux.org/)|Debian<sup>9</sup>|17|4.15|XFCE|X|X|X|X|X|X|X|X|X<sup>[9]</sup>|X|X|X|
+|[Kali](https://www.kali.org/)|Debian|Rolling|4.17|XFCE|X|X<sup>[14]</sup>|
+|[Tails](https://tails.boum.org/)|Debian<sup>9</sup>||4.17|GNOME|
 |[Q4OS](https://q4os.org/)|Debian|2.6|4.9|Trinity|X|X|X|X|X<sup>[2]</sup>|X|X|X<sup>[3]</sup>|X<sup>[4]</sup>|X|X|X|
 |[Elive](https://www.elivecd.org/)|Debian|3.0||Enlightenment|
 |[Arch Linux](https://www.archlinux.org/)|
@@ -52,6 +52,7 @@ Linux stuff
 > <sup>[11]</sup> gsettings set org.gnome.desktop.interface gtk-theme 'Adwaita-dark'
 > <sup>[12]</sup> gsettings set org.gnome.desktop.interface clock-show-date true
 > <sup>[13]</sup> Menu > Preferences > Customize Look and Feel.
+> <sup>[14]</sup>sudo apt-get install liblttng-ust0
 
 > Labels: **de** - default Desktop Environment; **vsc** - runs Visual Studio Code; **dotnet** - runs and debugs .Net; **web** - runs and debugs .Net web app; **menu** - has shortcut to search and open apps; **dark** - has a dark theme; **bkgd** - allows custom color background; **icons** - allows removing icons from desktop; **date** - allows YYYY-MM-DD HH:mm date display; **term** - allows terminal shortcut; **Vm** - auto resizes in Virtual Machine; **switch** - shortcut to swtich/cycle opened apps; **sudo** - has sudo installed
 
