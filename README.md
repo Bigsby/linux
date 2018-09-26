@@ -15,7 +15,7 @@ Linux stuff
 |[Linux Lite](https://www.linuxliteos.com/)|Ubuntu|4.0|4.15|XFCE|X|X|X|X|X|X|X|X|X|X|X|X|
 |[Xubuntu](https://xubuntu.org/)|Ubuntu|18.04|4.15|XFCE|X|X|X|ctrl+esc<sup>[1]</sup>|settings|X|X|X|X|X|X|X|
 |[Ubuntu MATE](https://ubuntu-mate.org/)|Ubuntu|18.04|4.15|MATE|X|X|X|X|X|X|X|**O**|X|X|X|X|
-|[Deepin](https://www.deepin.org/)|Ubuntu|
+|[Deepin](https://www.deepin.org/)|Ubuntu|15.7|4.15|Deepin|X|X|X|X|X|X|X|**O**|X|X<sup>[10]</sup>|X|X|
 |[anitX](https://antixlinux.com)|Debian|
 |[MX Linux](https://mxlinux.org/)|antiX|
 |[Kali](https://www.kali.org/)|Debian|
