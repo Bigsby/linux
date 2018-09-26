@@ -5,8 +5,8 @@ Linux stuff
 
 |name|base|ver|kernel|de|vsc|dotnet|web|menu|dark|background|icons|date|term|vm|switch|sudo|
 |---|---|---:|---:|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|[Debian](https://www.debian.org/)||9.5|4.9|GNOME|X|X|X|X|X|X<sup>[7]</sup>|X<sup>[8]</sup>|**O**|X<sup>[9]</sup>|X<sup>[10]</sup>|X|**O**|
-|[Ubuntu](https://www.ubuntu.com/)|Debian|18.04||GNOME|X|X|X|X|X|X<sup>[7]</sup>|X<sup>[8]</sup>|**O**|X|X|X|X|
+|[Debian](https://www.debian.org/)||9.5|4.9|GNOME|X|X|X|X|X|X<sup>[7]</sup>|X<sup>[8]</sup>|**O**<sup>[12]</sup>|X<sup>[9]</sup>|X<sup>[10]</sup>|X|**O**|
+|[Ubuntu](https://www.ubuntu.com/)|Debian|18.04||GNOME|X|X|X|X|X|X<sup>[7]</sup>|X<sup>[8]</sup>|**O**<sup>[12]</sup>|X|X|X|X|
 |[Mint](https://linuxmint.com/)|Ubuntu|||Cinnamon|X|
 |[elementary OS](https://elementary.io/)|Ubuntu|||Pantheon|X|X|X|win+space|**O**|X|X|**O**|X|X|X|X|
 |[ZorinOS](https://zorinos.com/)|Ubuntu<sup>16.04</sup>|12|4.15|XFCE|X|X|X|X|X|X|X|X|X|X|X|X|
@@ -25,12 +25,12 @@ Linux stuff
 |[Arch Linux](https://www.archlinux.org/)|
 |[Manjaro](https://manjaro.org/)|Arch Linux|17.1|4.14|XFCE|X|X|[X](https://stackoverflow.com/questions/44117840/can-i-set-listen-urls-in-appsettings-json-in-asp-net-core-2-0-preview)|X|X|X|X|X|X|X|X|X|
 |[RedHat](https://www.redhat.com/)|
-|[Fedora](https://getfedora.org/)|Red Hat|||GNOME|X|X|X|
+|[Fedora](https://getfedora.org/)|Red Hat|28|4.17|GNOME|X|X|X|X|X<sup>[11]</sup>|X<sup>[7]</sup>|X<sup>[8]</sup>|**O**<sup>[12]</sup>|X<sup>[9]</sup>|X|
 |[CentOS](https://www.centos.org/)|Red Hat|
 |[Mageia](http://www.mageia.org//)|Red Hat|||KDE|X|**O**|**O**|X|X|X|X|X|settins|X|X|X|
 |[PCLinuxOS](http://www.pclinuxos.com/)|Red Hat|
 |[Slackware](http://www.slackware.com)|
-|[openSUSE](https://www.opensuse.org/)|Slackware|||KDE|X|
+|[openSUSE](https://www.opensuse.org/)|Slackware|||KDE|X|X|X|
 |[FreeBSD](https://www.freebsd.org/)|
 |[Gentoo](https://www.gentoo.org)|FreeBSD|
 |[Solus](https://getsol.us/home/)||3.9999|4.18|Budgie|X<sup>[5]</sup>|**O**|**O**|X|X<sup>[6]</sup>|X<sup>[7]</sup>|X<sup>[8]</sup>|1/2|X<sup>[9]</sup>|X|X|X|
@@ -48,7 +48,8 @@ Linux stuff
 > <sup>[8]</sup> $ gsettings set org.gnome.desktop.background show-desktop-icons false.
 > <sup>[9]</sup> Settings > Keyboard > Add shortcut.
 > <sup>[10]</sup> Needs manual installation from mounted ISO and missing packages.
-
+> <sup>[11]</sup> gsettings set org.gnome.desktop.interface gtk-theme 'Adwaita-dark'
+> <sup>[12]</sup> gsettings set org.gnome.desktop.interface clock-show-date true
 
 > Labels: **de** - default Desktop Environment; **vsc** - runs Visual Studio Code; **dotnet** - runs and debugs .Net; **web** - runs and debugs .Net web app; **menu** - has shortcut to search and open apps; **dark** - has a dark theme; **background** - allows custom color background; **icons** - allows removing icons from desktop; **date** - allows YYYY-MM-DD HH:mm date display; **term** - allows terminal shortcut; **Vm** - auto resizes in Virtual Machine; **switch** - shortcut to swtich/cycle opened apps; **sudo** - has sudo installed
 
