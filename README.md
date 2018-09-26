@@ -3,11 +3,11 @@ Linux stuff
 
 # Tested Distros
 
-|name|base|ver|kernel|de|vsc|dotnet|web|menu|dark|background|icons|date|term|vm|switch|sudo|
+|name|base|ver|kernel|de|vsc|dotnet|web|menu|dark|bkgd|icons|date|term|vm|switch|sudo|
 |---|---|---:|---:|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |[Debian](https://www.debian.org/)||9.5|4.9|GNOME|X|X|X|X|X|X<sup>[7]</sup>|X<sup>[8]</sup>|**O**<sup>[12]</sup>|X<sup>[9]</sup>|X<sup>[10]</sup>|X|**O**|
-|[Ubuntu](https://www.ubuntu.com/)|Debian|18.04||GNOME|X|X|X|X|X|X<sup>[7]</sup>|X<sup>[8]</sup>|**O**<sup>[12]</sup>|X|X|X|X|
-|[Mint](https://linuxmint.com/)|Ubuntu|||Cinnamon|X|
+|[Ubuntu](https://www.ubuntu.com/)|Debian|18.04|4.15|GNOME|X|X|X|X|X|X<sup>[7]</sup>|X<sup>[8]</sup>|**O**<sup>[12]</sup>|X|X|X|X|
+|[Mint](https://linuxmint.com/)|Ubuntu|19|4.15|Cinnamon|X|X|X|X|X|X<sup>[7.5]</sup>|X<sup>[8]</sup>|X|X|X|X|X|
 |[elementary OS](https://elementary.io/)|Ubuntu|||Pantheon|X|X|X|win+space|**O**|X|X|**O**|X|X|X|X|
 |[ZorinOS](https://zorinos.com/)|Ubuntu<sup>16.04</sup>|12|4.15|XFCE|X|X|X|X|X|X|X|X|X|X|X|X|
 |[Lubuntu](https://lubuntu.me/)|Ubuntu|||LXDE|X|X|X|**O**|X|X|X|X|X|**O**|X|X|
@@ -45,13 +45,14 @@ Linux stuff
 > <sup>[5]</sup> Install from tar. $ sudo eopkg gconf.
 > <sup>[6]</sup> Budgie Desktop Settings.
 > <sup>[7]</sup> $ gsettings set org.gnome.desktop.background primary-color '#152233'.
+> <sup>[7.5]</sup> $ gsettings set org.cinnamon.desktop.background primary-color '#152215'.
 > <sup>[8]</sup> $ gsettings set org.gnome.desktop.background show-desktop-icons false.
-> <sup>[9]</sup> Settings > Keyboard > Add shortcut.
+> <sup>[9]</sup> Settings > Keyboard > Add shortcut. [gsettings alternative](https://askubuntu.com/questions/597395/how-to-set-custom-keyboard-shortcuts-from-terminal) 
 > <sup>[10]</sup> Needs manual installation from mounted ISO and missing packages.
 > <sup>[11]</sup> gsettings set org.gnome.desktop.interface gtk-theme 'Adwaita-dark'
 > <sup>[12]</sup> gsettings set org.gnome.desktop.interface clock-show-date true
 
-> Labels: **de** - default Desktop Environment; **vsc** - runs Visual Studio Code; **dotnet** - runs and debugs .Net; **web** - runs and debugs .Net web app; **menu** - has shortcut to search and open apps; **dark** - has a dark theme; **background** - allows custom color background; **icons** - allows removing icons from desktop; **date** - allows YYYY-MM-DD HH:mm date display; **term** - allows terminal shortcut; **Vm** - auto resizes in Virtual Machine; **switch** - shortcut to swtich/cycle opened apps; **sudo** - has sudo installed
+> Labels: **de** - default Desktop Environment; **vsc** - runs Visual Studio Code; **dotnet** - runs and debugs .Net; **web** - runs and debugs .Net web app; **menu** - has shortcut to search and open apps; **dark** - has a dark theme; **bkgd** - allows custom color background; **icons** - allows removing icons from desktop; **date** - allows YYYY-MM-DD HH:mm date display; **term** - allows terminal shortcut; **Vm** - auto resizes in Virtual Machine; **switch** - shortcut to swtich/cycle opened apps; **sudo** - has sudo installed
 
 
 # Desktop Environments to Test
