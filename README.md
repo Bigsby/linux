@@ -3,39 +3,41 @@ Linux stuff
 
 # Tested Distros
 
-|name|base|ver|kernel|de|vsc|dotnet|web|menu|dark|bkgd|icons|date|term|vm|switch|sudo|
-|---|---|---:|---:|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|[Debian](https://www.debian.org/)||9.5|4.9|GNOME|X|X|X|X|X|X<sup>[7]</sup>|X<sup>[8]</sup>|**O**<sup>[12]</sup>|X<sup>[9]</sup>|X<sup>[10]</sup>|X|**O**|
-|[Ubuntu](https://www.ubuntu.com/)|Debian|18.04|4.15|GNOME|X|X|X|X|X|X<sup>[7]</sup>|X<sup>[8]</sup>|**O**<sup>[12]</sup>|X|X|X|X|
-|[Mint](https://linuxmint.com/)|Ubuntu|19|4.15|Cinnamon|X|X|X|X|X|X<sup>[7.5]</sup>|X<sup>[8]</sup>|X|X|X|X|X|
-|[elementary OS](https://elementary.io/)|Ubuntu|0.4.1|4.15|Pantheon|X|X|X|win+space|**O**|X|X|**O**|X|X|X|X|
-|[ZorinOS](https://zorinos.com/)|Ubuntu<sup>16.04</sup>|12|4.15|XFCE|X|X|X|X|X|X|X|X|X|X|X|X|
-|[Lubuntu](https://lubuntu.me/)|Ubuntu|18.04|4.15|LXDE|X|X|X|alt+f2|**O**<sup>[13]</sup>[]|X|X|X|X|**O**|X|X|
-|[Kubuntu](https://kubuntu.org/)|Ubuntu|18.04|4.15|KDE|X|X|X|X|X|X|X|X|settings|X|X|X|
-|[Linux Lite](https://www.linuxliteos.com/)|Ubuntu|4.0|4.15|XFCE|X|X|X|X|X|X|X|X|X|X|X|X|
-|[Xubuntu](https://xubuntu.org/)|Ubuntu|18.04|4.15|XFCE|X|X|X|ctrl+esc<sup>[1]</sup>|X<sup>[15]</sup>|X|X|X|X|X|X|X|
-|[Ubuntu MATE](https://ubuntu-mate.org/)|Ubuntu|18.04|4.15|MATE|X|X|X|X|X|X|X|**O**|X|X|X|X|
-|[Deepin](https://www.deepin.org/)|Ubuntu|15.7|4.15|Deepin|X|X|X|X|X|X|X|**O**|X|X<sup>[10]</sup>|X|X|
-|[KDE neon](https://neon.kde.org/)|Ubuntu|18.04||KDE|
-|[anitX](https://antixlinux.com)|Debian|
-|[MX Linux](https://mxlinux.org/)|Debian<sup>9</sup>|17|4.15|XFCE|X|X|X|X|X|X|X|X|X<sup>[9]</sup>|X|X|X|
-|[Kali](https://www.kali.org/)|Debian|Rolling|4.17|XFCE|X|X<sup>[14]</sup>|
-|[Tails](https://tails.boum.org/)|Debian<sup>9</sup>||4.17|GNOME|
-|[Q4OS](https://q4os.org/)|Debian|2.6|4.9|Trinity|X|X|X|X|X<sup>[2]</sup>|X|X|X<sup>[3]</sup>|X<sup>[4]</sup>|X|X|X|
-|[Elive](https://www.elivecd.org/)|Debian|3.0||Enlightenment|
-|[Arch Linux](https://www.archlinux.org/)|
-|[Manjaro](https://manjaro.org/)|Arch Linux|17.1|4.14|XFCE|X|X|[X](https://stackoverflow.com/questions/44117840/can-i-set-listen-urls-in-appsettings-json-in-asp-net-core-2-0-preview)|X|X|X|X|X|X|X|X|X|
-|[RedHat](https://www.redhat.com/)|
-|[Fedora](https://getfedora.org/)|Red Hat|28|4.17|GNOME|X|X|X|X|X<sup>[11]</sup>|X<sup>[7]</sup>|X<sup>[8]</sup>|**O**<sup>[12]</sup>|X<sup>[9]</sup>|X|
-|[CentOS](https://www.centos.org/)|Red Hat|
-|[Mageia](http://www.mageia.org//)|Red Hat|||KDE|X|**O**|**O**|X|X|X|X|X|settins|X|X|X|
-|[PCLinuxOS](http://www.pclinuxos.com/)|Red Hat|
-|[Slackware](http://www.slackware.com)|
-|[openSUSE](https://www.opensuse.org/)|Slackware|||KDE|X|X|X|
-|[FreeBSD](https://www.freebsd.org/)|
-|[Gentoo](https://www.gentoo.org)|FreeBSD|
-|[Solus](https://getsol.us/home/)||3.9999|4.18|Budgie|X<sup>[5]</sup>|**O**|**O**|X|X<sup>[6]</sup>|X<sup>[7]</sup>|X<sup>[8]</sup>|1/2|X<sup>[9]</sup>|X|X|X|
-|[ReactOS](http://www.reactos.org/)|
+|name|base|ver|kernel|de|vsc|dotnet|web|menu|dark|bkgd|icons|date|term|vm|switch|sudo|name|
+|---|---|---:|---:|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|---|
+|[Debian](https://www.debian.org/)||9.5|4.9|GNOME|X|X|X|X|X|X<sup>[7]</sup>|X<sup>[8]</sup>|**O**<sup>[12]</sup>|X<sup>[9]</sup>|X<sup>[10]</sup>|X|**O**|[Debian](https://www.debian.org/)||
+|[Ubuntu](https://www.ubuntu.com/)|Debian|18.04|4.15|GNOME|X|X|X|X|X|X<sup>[7]</sup>|X<sup>[8]</sup>|**O**<sup>[12]</sup>|X|X|X|X|[Ubuntu](https://www.ubuntu.com/)|
+|[Mint](https://linuxmint.com/)|Ubuntu|19|4.15|Cinnamon|X|X|X|X|X|X<sup>[7.5]</sup>|X<sup>[8]</sup>|X|X|X|X|X|[Mint](https://linuxmint.com/)|
+|[elementaryOS](https://elementary.io/)|Ubuntu|0.4.1|4.15|Pantheon|X|X|X|win+space|**O**|X|X|**O**|X|X|X|X|[elementaryOS](https://elementary.io/)|
+|[ZorinOS](https://zorinos.com/)|Ubuntu<sup>16.04</sup>|12|4.15|XFCE|X|X|X|X|X|X|X|X|X|X|X|X|[ZorinOS](https://zorinos.com/)|
+|[Lubuntu](https://lubuntu.me/)|Ubuntu|18.04|4.15|LXDE|X|X|X|alt+f2|**O**<sup>[13]</sup>[]|X|X|X|X|**O**|X|X|[Lubuntu](https://lubuntu.me/)|
+|[Kubuntu](https://kubuntu.org/)|Ubuntu|18.04|4.15|KDE|X|X|X|X|X|X|X|X|settings|X|X|X|[Kubuntu](https://kubuntu.org/)|
+|[Linux Lite](https://www.linuxliteos.com/)|Ubuntu|4.0|4.15|XFCE|X|X|X|X|X|X|X|X|X|X|X|X|[Linux Lite](https://www.linuxliteos.com/)|
+|[Xubuntu](https://xubuntu.org/)|Ubuntu|18.04|4.15|XFCE|X|X|X|ctrl+esc<sup>[1]</sup>|X<sup>[15]</sup>|X|X|X|X|X|X|X|[Xubuntu](https://xubuntu.org/)|
+|[Ubuntu MATE](https://ubuntu-mate.org/)|Ubuntu|18.04|4.15|MATE|X|X|X|X|X|X|X|**O**|X|X|X|X|[Ubuntu MATE](https://ubuntu-mate.org/)|
+|[Deepin](https://www.deepin.org/)|Ubuntu|15.7|4.15|Deepin|X|X|X|X|X|X|X|**O**|X|X<sup>[10]</sup>|X|X|[Deepin](https://www.deepin.org/)|
+|[KDE neon](https://neon.kde.org/)|Ubuntu|18.04||KDE|||||||||||||[KDE neon](https://neon.kde.org/)|
+|[anitX](https://antixlinux.com)|Debian||||||||||||||||[anitX](https://antixlinux.com)|
+|[MX Linux](https://mxlinux.org/)|Debian<sup>9</sup>|17|4.15|XFCE|X|X|X|X|X|X|X|X|X<sup>[9]</sup>|X|X|X|[MX Linux](https://mxlinux.org/)|
+|[Kali](https://www.kali.org/)|Debian|Rolling|4.17|XFCE|X|X<sup>[14]</sup>|||||||||||[Kali](https://www.kali.org/)|
+|[Tails](https://tails.boum.org/)|Debian<sup>9</sup>||4.17|GNOME|||||||||||||[Tails](https://tails.boum.org/)|
+|**name**|**base**|**ver**|**kernel**|**de**|**vsc**|**dotnet**|**web**|**menu**|**dark**|**bkgd**|**icons**|**date**|**term**|**vm**|**switch**|**sudo**|**name**|
+|[Q4OS](https://q4os.org/)|Debian|2.6|4.9|Trinity|X|X|X|X|X<sup>[2]</sup>|X|X|X<sup>[3]</sup>|X<sup>[4]</sup>|X|X|X|[Q4OS](https://q4os.org/)|
+|[Elive](https://www.elivecd.org/)|Debian|3.0||Enlightenment|||||||||||||[Elive](https://www.elivecd.org/)|
+|[Arch Linux](https://www.archlinux.org/)|||||||||||||||||[Arch Linux](https://www.archlinux.org/)|
+|[Manjaro](https://manjaro.org/)|Arch Linux|17.1|4.14|XFCE|X|X|[X](https://stackoverflow.com/questions/44117840/can-i-set-listen-urls-in-appsettings-json-in-asp-net-core-2-0-preview)|X|X|X|X|X|X|X|X|X|[Manjaro](https://manjaro.org/)|
+|[RedHat](https://www.redhat.com/)|||||||||||||||||[RedHat](https://www.redhat.com/)|
+|[Fedora](https://getfedora.org/)|Red Hat|28|4.17|GNOME|X|X|X|X|X<sup>[11]</sup>|X<sup>[7]</sup>|X<sup>[8]</sup>|**O**<sup>[12]</sup>|X<sup>[9]</sup>||X|X|[Fedora](https://getfedora.org/)|
+|[CentOS](https://www.centos.org/)|Red Hat||||||||||||||||[CentOS](https://www.centos.org/)|
+|[Mageia](http://www.mageia.org//)|Red Hat|||KDE|X|**O**|**O**|X|X|X|X|X|settins|X|X|X|[Mageia](http://www.mageia.org//)|Red Hat|
+|[PCLinuxOS](http://www.pclinuxos.com/)|Red Hat||||||||||||||||[PCLinuxOS](http://www.pclinuxos.com/)|
+|[Slackware](http://www.slackware.com)|||||||||||||||||[Slackware](http://www.slackware.com)|
+|[openSUSE](https://www.opensuse.org/)|Slackware|||KDE|X|X|X||||||||||[openSUSE](https://www.opensuse.org/)|
+|[FreeBSD](https://www.freebsd.org/)|||||||||||||||||[FreeBSD](https://www.freebsd.org/)|
+|[Gentoo](https://www.gentoo.org)|FreeBSD||||||||||||||||[Gentoo](https://www.gentoo.org)|
+|[Solus](https://getsol.us/home/)||3.9999|4.18|Budgie|X<sup>[5]</sup>|**O**|**O**|X|X<sup>[6]</sup>|X<sup>[7]</sup>|X<sup>[8]</sup>|1/2|X<sup>[9]</sup>|X|X|X|[Solus](https://getsol.us/home/)|
+|[ReactOS](http://www.reactos.org/)|||||||||||||||||[ReactOS](http://www.reactos.org/)|
+|**name**|**base**|**ver**|**kernel**|**de**|**vsc**|**dotnet**|**web**|**menu**|**dark**|**bkgd**|**icons**|**date**|**term**|**vm**|**switch**|**sudo**|**name**|
 
 > **Notes:**  
 <sup>[1]</sup> Configurable to Win key.  
