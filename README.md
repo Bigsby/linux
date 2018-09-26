@@ -8,13 +8,13 @@ Linux stuff
 |[Debian](https://www.debian.org/)||9.5|4.9|GNOME|X|X|X|X|X|X<sup>[7]</sup>|X<sup>[8]</sup>|**O**<sup>[12]</sup>|X<sup>[9]</sup>|X<sup>[10]</sup>|X|**O**|
 |[Ubuntu](https://www.ubuntu.com/)|Debian|18.04|4.15|GNOME|X|X|X|X|X|X<sup>[7]</sup>|X<sup>[8]</sup>|**O**<sup>[12]</sup>|X|X|X|X|
 |[Mint](https://linuxmint.com/)|Ubuntu|19|4.15|Cinnamon|X|X|X|X|X|X<sup>[7.5]</sup>|X<sup>[8]</sup>|X|X|X|X|X|
-|[elementary OS](https://elementary.io/)|Ubuntu|||Pantheon|X|X|X|win+space|**O**|X|X|**O**|X|X|X|X|
+|[elementary OS](https://elementary.io/)|Ubuntu|0.4.1|4.15|Pantheon|X|X|X|win+space|**O**|X|X|**O**|X|X|X|X|
 |[ZorinOS](https://zorinos.com/)|Ubuntu<sup>16.04</sup>|12|4.15|XFCE|X|X|X|X|X|X|X|X|X|X|X|X|
-|[Lubuntu](https://lubuntu.me/)|Ubuntu|||LXDE|X|X|X|**O**|X|X|X|X|X|**O**|X|X|
+|[Lubuntu](https://lubuntu.me/)|Ubuntu|18.04|4.15|LXDE|X|X|X|alt+f2|**O**<sup>[13]</sup>[]|X|X|X|X|**O**|X|X|
 |[Kubuntu](https://kubuntu.org/)|Ubuntu|18.04|4.15|KDE|X|X|X|X|X|X|X|X|settings|X|X|X|
 |[Linux Lite](https://www.linuxliteos.com/)|Ubuntu|4.0|4.15|XFCE|X|X|X|X|X|X|X|X|X|X|X|X|
 |[Xubuntu](https://xubuntu.org/)|Ubuntu|18.04|4.15|XFCE|X|X|X|ctrl+esc<sup>[1]</sup>|settings|X|X|X|X|X|X|X|
-|[Ubuntu MATE](https://ubuntu-mate.org/)|Ubuntu|||MATE|X|X|X|X|X|X|X|**O**|X|X|X|X|
+|[Ubuntu MATE](https://ubuntu-mate.org/)|Ubuntu|18.04|4.15|MATE|X|X|X|X|X|X|X|**O**|X|X|X|X|
 |[Deepin](https://www.deepin.org/)|Ubuntu|
 |[anitX](https://antixlinux.com)|Debian|
 |[MX Linux](https://mxlinux.org/)|antiX|
@@ -51,6 +51,7 @@ Linux stuff
 > <sup>[10]</sup> Needs manual installation from mounted ISO and missing packages.
 > <sup>[11]</sup> gsettings set org.gnome.desktop.interface gtk-theme 'Adwaita-dark'
 > <sup>[12]</sup> gsettings set org.gnome.desktop.interface clock-show-date true
+> <sup>[13]</sup> Menu > Preferences > Customize Look and Feel.
 
 > Labels: **de** - default Desktop Environment; **vsc** - runs Visual Studio Code; **dotnet** - runs and debugs .Net; **web** - runs and debugs .Net web app; **menu** - has shortcut to search and open apps; **dark** - has a dark theme; **bkgd** - allows custom color background; **icons** - allows removing icons from desktop; **date** - allows YYYY-MM-DD HH:mm date display; **term** - allows terminal shortcut; **Vm** - auto resizes in Virtual Machine; **switch** - shortcut to swtich/cycle opened apps; **sudo** - has sudo installed
 
