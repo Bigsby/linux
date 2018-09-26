@@ -13,7 +13,7 @@ Linux stuff
 |[Lubuntu](https://lubuntu.me/)|Ubuntu|18.04|4.15|LXDE|X|X|X|alt+f2|**O**<sup>[13]</sup>[]|X|X|X|X|**O**|X|X|
 |[Kubuntu](https://kubuntu.org/)|Ubuntu|18.04|4.15|KDE|X|X|X|X|X|X|X|X|settings|X|X|X|
 |[Linux Lite](https://www.linuxliteos.com/)|Ubuntu|4.0|4.15|XFCE|X|X|X|X|X|X|X|X|X|X|X|X|
-|[Xubuntu](https://xubuntu.org/)|Ubuntu|18.04|4.15|XFCE|X|X|X|ctrl+esc<sup>[1]</sup>|settings|X|X|X|X|X|X|X|
+|[Xubuntu](https://xubuntu.org/)|Ubuntu|18.04|4.15|XFCE|X|X|X|ctrl+esc<sup>[1]</sup>|X<sup>[15]</sup>|X|X|X|X|X|X|X|
 |[Ubuntu MATE](https://ubuntu-mate.org/)|Ubuntu|18.04|4.15|MATE|X|X|X|X|X|X|X|**O**|X|X|X|X|
 |[Deepin](https://www.deepin.org/)|Ubuntu|15.7|4.15|Deepin|X|X|X|X|X|X|X|**O**|X|X<sup>[10]</sup>|X|X|
 |[KDE neon](https://neon.kde.org/)|Ubuntu|18.04||KDE|
@@ -53,7 +53,8 @@ Linux stuff
 > <sup>[11]</sup> gsettings set org.gnome.desktop.interface gtk-theme 'Adwaita-dark'
 > <sup>[12]</sup> gsettings set org.gnome.desktop.interface clock-show-date true
 > <sup>[13]</sup> Menu > Preferences > Customize Look and Feel.
-> <sup>[14]</sup>sudo apt-get install liblttng-ust0
+> <sup>[14]</sup> sudo apt-get install liblttng-ust0
+> <sup>[15]</sup> Settings Maanger > Appearance & Settings Manager > Windows Manager
 
 > Labels: **de** - default Desktop Environment; **vsc** - runs Visual Studio Code; **dotnet** - runs and debugs .Net; **web** - runs and debugs .Net web app; **menu** - has shortcut to search and open apps; **dark** - has a dark theme; **bkgd** - allows custom color background; **icons** - allows removing icons from desktop; **date** - allows YYYY-MM-DD HH:mm date display; **term** - allows terminal shortcut; **Vm** - auto resizes in Virtual Machine; **switch** - shortcut to swtich/cycle opened apps; **sudo** - has sudo installed
 
