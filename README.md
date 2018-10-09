@@ -28,7 +28,7 @@ Linux stuff
 |[Manjaro](https://manjaro.org/)|Arch Linux|17.1|4.14|XFCE|X|X|[X](https://stackoverflow.com/questions/44117840/can-i-set-listen-urls-in-appsettings-json-in-asp-net-core-2-0-preview)|X|X|X|X|X|X|X|X|X|[Manjaro](https://manjaro.org/)|
 |[RedHat](https://www.redhat.com/)|||||||||||||||||[RedHat](https://www.redhat.com/)|
 |[Fedora](https://getfedora.org/)|Red Hat|28|4.17|GNOME|X|X|X|X|X<sup>[11]</sup>|X<sup>[7]</sup>|X<sup>[8]</sup>|**O**<sup>[12]</sup>|X<sup>[9]</sup>||X|X|[Fedora](https://getfedora.org/)|
-|[CentOS](https://www.centos.org/)|Red Hat||||||||||||||||[CentOS](https://www.centos.org/)|
+|[CentOS](https://www.centos.org/)|Red Hat|7|3.0|"GNOME"|X|X|X|X|"X"|X|X|**O**|X|X<sup>[10]</sup>|X|X|[CentOS](https://www.centos.org/)|
 |[Mageia](http://www.mageia.org//)|Red Hat|6|4.14|KDE|X|**O**|**O**|X|X|X|X|X|settins|X|X|X|[Mageia](http://www.mageia.org//)|Red Hat|
 |[PCLinuxOS](http://www.pclinuxos.com/)|Red Hat||||||||||||||||[PCLinuxOS](http://www.pclinuxos.com/)|
 |[Slackware](http://www.slackware.com)|||||||||||||||||[Slackware](http://www.slackware.com)|
@@ -39,6 +39,21 @@ Linux stuff
 |[ReactOS](http://www.reactos.org/)|"Windows"||||||||||||||||[ReactOS](http://www.reactos.org/)|
 |[Haiku](https://www.haiku-os.org/)|"Linux"||||||||||||||||[Haiku](https://www.haiku-os.org/)|
 |**name**|**base**|**ver**|**kernel**|**de**|**vsc**|**dotnet**|**web**|**menu**|**dark**|**bkgd**|**icons**|**date**|**term**|**vm**|**switch**|**sudo**|**name**|
+
+> **Labels:**  
+**de** - default Desktop Environment;  
+**vsc** - runs Visual Studio Code;  
+**dotnet** - runs and debugs .Net;  
+**web** - runs and debugs .Net web app;  
+**menu** - has shortcut to search and open apps;  
+**dark** - has a dark theme;  
+**bkgd** - allows custom color background;  
+**icons** - allows removing icons from desktop;  
+**date** - allows YYYY-MM-DD HH:mm date display;  
+**term** - allows terminal shortcut;  
+**Vm** - auto resizes in Virtual Machine;  
+**switch** - shortcut to swtich/cycle opened apps;  
+**sudo** - has sudo installed
 
 > **Notes:**  
 <sup>[1]</sup> Configurable to Win key.  
@@ -57,22 +72,6 @@ Linux stuff
 <sup>[13]</sup> Menu > Preferences > Customize Look and Feel.  
 <sup>[14]</sup> sudo apt-get install liblttng-ust0  
 <sup>[15]</sup> Settings Maanger > Appearance & Settings Manager > Windows Manager
-
-> **Labels:**  
-**de** - default Desktop Environment;  
-**vsc** - runs Visual Studio Code;  
-**dotnet** - runs and debugs .Net;  
-**web** - runs and debugs .Net web app;  
-**menu** - has shortcut to search and open apps;  
-**dark** - has a dark theme;  
-**bkgd** - allows custom color background;  
-**icons** - allows removing icons from desktop;  
-**date** - allows YYYY-MM-DD HH:mm date display;  
-**term** - allows terminal shortcut;  
-**Vm** - auto resizes in Virtual Machine;  
-**switch** - shortcut to swtich/cycle opened apps;  
-**sudo** - has sudo installed
-
 
 # Desktop Environments to Test
 - [Cinnamon](https://cinnamon-spices.linuxmint.com/)
