@@ -27,7 +27,7 @@ Linux stuff
 |[Arch Linux](https://www.archlinux.org/)|||||||||||||||||[Arch Linux](https://www.archlinux.org/)|
 |[Manjaro](https://manjaro.org/)|Arch Linux|17.1|4.14|XFCE|X|X|[X](https://stackoverflow.com/questions/44117840/can-i-set-listen-urls-in-appsettings-json-in-asp-net-core-2-0-preview)|X|X|X|X|X|X|X|X|X|[Manjaro](https://manjaro.org/)|
 |[RedHat](https://www.redhat.com/)|||||||||||||||||[RedHat](https://www.redhat.com/)|
-|[Fedora](https://getfedora.org/)|Red Hat|28|4.17|GNOME|X|X|X|X|X<sup>[11]</sup>|X<sup>[7]</sup>|X<sup>[8]</sup>|**O**<sup>[12]</sup>|X<sup>[9]</sup>||X|X|[Fedora](https://getfedora.org/)|
+|[Fedora](https://getfedora.org/)|Red Hat|28|4.17|GNOME|X|X|X|X|X<sup>[11]</sup>|X<sup>[7]</sup>|X<sup>[8]</sup>|**O**<sup>[12]</sup>|X<sup>[9]</sup>|X|X|X|[Fedora](https://getfedora.org/)|
 |[CentOS](https://www.centos.org/)|Red Hat|7|3.0|"GNOME"|X|X|X|X|"X"|X|X|**O**|X|X<sup>[10]</sup>|X|X|[CentOS](https://www.centos.org/)|
 |[Mageia](http://www.mageia.org//)|Red Hat|6|4.14|KDE|X|**O**|**O**|X|X|X|X|X|settins|X|X|X|[Mageia](http://www.mageia.org//)|Red Hat|
 |[PCLinuxOS](http://www.pclinuxos.com/)|Red Hat||||||||||||||||[PCLinuxOS](http://www.pclinuxos.com/)|
