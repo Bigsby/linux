@@ -31,11 +31,11 @@ Linux stuff
 |[CentOS](https://www.centos.org/)|Red Hat|7|3.0|"GNOME"|X|X|X|X|"X"|X|X|**O**|X|X<sup>[10]</sup>|X|X|[CentOS](https://www.centos.org/)|
 |[Mageia](http://www.mageia.org//)|Red Hat|6|4.14|KDE|X|**O**|**O**|X|X|X|X|X|settins|X|X|X|[Mageia](http://www.mageia.org//)|Red Hat|
 |[PCLinuxOS](http://www.pclinuxos.com/)|Red Hat||||||||||||||||[PCLinuxOS](http://www.pclinuxos.com/)|
-|[Slackware](http://www.slackware.com)|||||||||||||||||[Slackware](http://www.slackware.com)|
+|[Slackware](http://www.slackware.com)|Linux||||||||||||||||[Slackware](http://www.slackware.com)|
 |[openSUSE](https://www.opensuse.org/)|Slackware|||KDE|X|X|X||||||||||[openSUSE](https://www.opensuse.org/)|
-|[FreeBSD](https://www.freebsd.org/)|||||||||||||||||[FreeBSD](https://www.freebsd.org/)|
+|[FreeBSD](https://www.freebsd.org/)|BSD||||||||||||||||[FreeBSD](https://www.freebsd.org/)|
 |[Gentoo](https://www.gentoo.org)|FreeBSD||||||||||||||||[Gentoo](https://www.gentoo.org)|
-|[Solus](https://getsol.us/home/)||3.9999|4.18|Budgie|X<sup>[5]</sup>|**O**|**O**|X|X<sup>[6]</sup>|X<sup>[7]</sup>|X<sup>[8]</sup>|1/2|X<sup>[9]</sup>|X|X|X|[Solus](https://getsol.us/home/)|
+|[Solus](https://getsol.us/home/)|Linux|3.9999|4.18|Budgie|X<sup>[5]</sup>|**O**|**O**|X|X<sup>[6]</sup>|X<sup>[7]</sup>|X<sup>[8]</sup>|1/2|X<sup>[9]</sup>|X|X|X|[Solus](https://getsol.us/home/)|
 |[ReactOS](http://www.reactos.org/)|"Windows"||||||||||||||||[ReactOS](http://www.reactos.org/)|
 |[Haiku](https://www.haiku-os.org/)|"Linux"||||||||||||||||[Haiku](https://www.haiku-os.org/)|
 |**name**|**base**|**ver**|**kernel**|**de**|**vsc**|**dotnet**|**web**|**menu**|**dark**|**bkgd**|**icons**|**date**|**term**|**vm**|**switch**|**sudo**|**name**|
