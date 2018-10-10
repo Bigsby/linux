@@ -5,7 +5,7 @@ Linux stuff
 
 |name|base|ver|kernel|de|vsc|dotnet|web|menu|dark|bkgd|icons|date|term|vm|switch|sudo|name|
 |---|---|---:|---:|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|---|
-|[Debian](https://www.debian.org/)||9.5|4.9|GNOME|X|X|X|X|X|X<sup>[7]</sup>|X<sup>[8]</sup>|**O**<sup>[12]</sup>|X<sup>[9]</sup>|X<sup>[10]</sup>|X|**O**|[Debian](https://www.debian.org/)||
+|[Debian](https://www.debian.org/)|Linux|9.5|4.9|GNOME|X|X|X|X|X|X<sup>[7]</sup>|X<sup>[8]</sup>|**O**<sup>[12]</sup>|X<sup>[9]</sup>|X<sup>[10]</sup>|X|**O**|[Debian](https://www.debian.org/)||
 |[Ubuntu](https://www.ubuntu.com/)|Debian|18.04|4.15|GNOME|X|X|X|X|X|X<sup>[7]</sup>|X<sup>[8]</sup>|**O**<sup>[12]</sup>|X|X|X|X|[Ubuntu](https://www.ubuntu.com/)|
 |[Mint](https://linuxmint.com/)|Ubuntu|19|4.15|Cinnamon|X|X|X|X|X|X<sup>[7.5]</sup>|X<sup>[8]</sup>|X|X|X|X|X|[Mint](https://linuxmint.com/)|
 |[elementaryOS](https://elementary.io/)|Ubuntu|0.4.1|4.15|Pantheon|X|X|X|win+space|**O**|X|X|**O**|X|X|X|X|[elementaryOS](https://elementary.io/)|
@@ -24,9 +24,9 @@ Linux stuff
 |**name**|**base**|**ver**|**kernel**|**de**|**vsc**|**dotnet**|**web**|**menu**|**dark**|**bkgd**|**icons**|**date**|**term**|**vm**|**switch**|**sudo**|**name**|
 |[Q4OS](https://q4os.org/)|Debian|2.6|4.9|Trinity|X|X|X|X|X<sup>[2]</sup>|X|X|X<sup>[3]</sup>|X<sup>[4]</sup>|X|X|X|[Q4OS](https://q4os.org/)|
 |[Elive](https://www.elivecd.org/)<sup>i386</sup>|Debian<sup>7.11</sup>|3.0|3.16|Enlightenment|**O**||||||||||||[Elive](https://www.elivecd.org/)|
-|[Arch Linux](https://www.archlinux.org/)|||||||||||||||||[Arch Linux](https://www.archlinux.org/)|
+|[Arch Linux](https://www.archlinux.org/)|Linux||||||||||||||||[Arch Linux](https://www.archlinux.org/)|
 |[Manjaro](https://manjaro.org/)|Arch Linux|17.1|4.14|XFCE|X|X|[X](https://stackoverflow.com/questions/44117840/can-i-set-listen-urls-in-appsettings-json-in-asp-net-core-2-0-preview)|X|X|X|X|X|X|X|X|X|[Manjaro](https://manjaro.org/)|
-|[RedHat](https://www.redhat.com/)|||||||||||||||||[RedHat](https://www.redhat.com/)|
+|[RedHat](https://www.redhat.com/)|Linux||||||||||||||||[RedHat](https://www.redhat.com/)|
 |[Fedora](https://getfedora.org/)|Red Hat|28|4.17|GNOME|X|X|X|X|X<sup>[11]</sup>|X<sup>[7]</sup>|X<sup>[8]</sup>|**O**<sup>[12]</sup>|X<sup>[9]</sup>|X|X|X|[Fedora](https://getfedora.org/)|
 |[CentOS](https://www.centos.org/)|Red Hat|7|3.0|"GNOME"|X|X|X|X|"X"|X|X|**O**|X|X<sup>[10]</sup>|X|X|[CentOS](https://www.centos.org/)|
 |[Mageia](http://www.mageia.org//)|Red Hat|6|4.14|KDE|X|**O**|**O**|X|X|X|X|X|settins|X|X|X|[Mageia](http://www.mageia.org//)|Red Hat|
