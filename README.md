@@ -10,7 +10,7 @@ Linux stuff
 |[Mint](https://linuxmint.com/)|Ubuntu|19|4.15|Cinnamon|X|X|X|X|X|X<sup>[7.5]</sup>|X<sup>[8]</sup>|X|X|X|X|X|[Mint](https://linuxmint.com/)|
 |[elementaryOS](https://elementary.io/)|Ubuntu|5.0|4.15|Pantheon|X|X|X|win+space|X<sup>[17]</sup>|X|X|**O**|X|X|X|X|[elementaryOS](https://elementary.io/)|
 |[ZorinOS](https://zorinos.com/)|Ubuntu<sup>16.04</sup>|12|4.15|XFCE|X|X|X|X|X|X|X|X|X|X|X|X|[ZorinOS](https://zorinos.com/)|
-|[Lubuntu](https://lubuntu.me/)|Ubuntu|18.04|4.15|LXDE|X|X|X|alt+f2|**O**<sup>[13]</sup>[]|X|X|X|X|**O**|X|X|[Lubuntu](https://lubuntu.me/)|
+|[Lubuntu](https://lubuntu.me/)|Ubuntu|18.04|4.15|LXDE|X|X|X|alt+f2|**O**<sup>[13]</sup>|X|X|X|X|**O**|X|X|[Lubuntu](https://lubuntu.me/)|
 |[Kubuntu](https://kubuntu.org/)|Ubuntu|18.04|4.15|KDE|X|X|X|X|X|X|X|X|settings|X|X|X|[Kubuntu](https://kubuntu.org/)|
 |[Linux Lite](https://www.linuxliteos.com/)|Ubuntu|4.0|4.15|XFCE|X|X|X|X|X|X|X|X|X|X|X|X|[Linux Lite](https://www.linuxliteos.com/)|
 |[Xubuntu](https://xubuntu.org/)|Ubuntu|18.04|4.15|XFCE|X|X|X|ctrl+esc<sup>[1]</sup>|X<sup>[15]</sup>|X|X|X|X|X|X|X|[Xubuntu](https://xubuntu.org/)|
@@ -26,7 +26,7 @@ Linux stuff
 |[Elive](https://www.elivecd.org/)<sup>i386</sup>|Debian<sup>7.11</sup>|3.0|3.16|Enlightenment|**O**||||||||||||[Elive](https://www.elivecd.org/)|
 |[Arch Linux](https://www.archlinux.org/)|Linux||||||||||||||||[Arch Linux](https://www.archlinux.org/)|
 |[Manjaro](https://manjaro.org/)|Arch Linux|17.1|4.14|XFCE|X|X|[X](https://stackoverflow.com/questions/44117840/can-i-set-listen-urls-in-appsettings-json-in-asp-net-core-2-0-preview)|X|X|X|X|X|X|X|X|X|[Manjaro](https://manjaro.org/)|
-|[KaOS](https://kaosx.us/)|Arch Linux|2018.10|4.18|KDE|X<sup>[16]</sup>|||X|X|X|X|X|X|X|X|[KaOS](https://kaosx.us/)
+|[KaOS](https://kaosx.us/)|Arch Linux|2018.10|4.18|KDE|X<sup>[16]</sup>||||X|X|X|X|X|X|X|X|[KaOS](https://kaosx.us/)
 |[RedHat](https://www.redhat.com/)|Linux||||||||||||||||[RedHat](https://www.redhat.com/)|
 |[Fedora](https://getfedora.org/)|Red Hat|28|4.17|GNOME|X|X|X|X|X<sup>[11]</sup>|X<sup>[7]</sup>|X<sup>[8]</sup>|**O**<sup>[12]</sup>|X<sup>[9]</sup>|X|X|X|[Fedora](https://getfedora.org/)|
 |[CentOS](https://www.centos.org/)|Red Hat|7|3.0|"GNOME"|X|X|X|X|"X"|X|X|**O**|X|X<sup>[10]</sup>|X|X|[CentOS](https://www.centos.org/)|
@@ -64,7 +64,7 @@ Linux stuff
 <sup>[5]</sup> Install from tar. $ sudo eopkg gconf.  
 <sup>[6]</sup> Budgie Desktop Settings.  
 <sup>[7]</sup> $ gsettings set org.gnome.desktop.background primary-color '#152233'.  
-<sup>[7.5]</sup> $ gsettings set org.cinnamon.desktop.background primary-color '#152215'.  
+<sup>[7.5]</sup> $ gsettings set org.cinnamon.desktop.background primary-color '#152223'.  
 <sup>[8]</sup> $ gsettings set org.gnome.desktop.background show-desktop-icons false.  
 <sup>[9]</sup> Settings > Keyboard > Add shortcut. [gsettings alternative](https://askubuntu.com/questions/597395/how-to-set-custom-keyboard-shortcuts-from-terminal)   
 <sup>[10]</sup> Needs manual installation from mounted ISO and missing packages.  
