@@ -8,7 +8,7 @@ Linux stuff
 |[Debian](https://www.debian.org/)|Linux|9.5|4.9|GNOME|X|X|X|X|X|X<sup>[7]</sup>|X<sup>[8]</sup>|**O**<sup>[12]</sup>|X<sup>[9]</sup>|X<sup>[10]</sup>|X|**O**|[Debian](https://www.debian.org/)||
 |[Ubuntu](https://www.ubuntu.com/)|Debian|18.04|4.15|GNOME|X|X|X|X|X|X<sup>[7]</sup>|X<sup>[8]</sup>|**O**<sup>[12]</sup>|X|X|X|X|[Ubuntu](https://www.ubuntu.com/)|
 |[Mint](https://linuxmint.com/)|Ubuntu|19|4.15|Cinnamon|X|X|X|X|X|X<sup>[7.5]</sup>|X<sup>[8]</sup>|X|X|X|X|X|[Mint](https://linuxmint.com/)|
-|[elementaryOS](https://elementary.io/)|Ubuntu|0.4.1|4.15|Pantheon|X|X|X|win+space|**O**|X|X|**O**|X|X|X|X|[elementaryOS](https://elementary.io/)|
+|[elementaryOS](https://elementary.io/)|Ubuntu|5.0|4.15|Pantheon|X|X|X|win+space|X<sup>[17]</sup>|X|X|**O**|X|X|X|X|[elementaryOS](https://elementary.io/)|
 |[ZorinOS](https://zorinos.com/)|Ubuntu<sup>16.04</sup>|12|4.15|XFCE|X|X|X|X|X|X|X|X|X|X|X|X|[ZorinOS](https://zorinos.com/)|
 |[Lubuntu](https://lubuntu.me/)|Ubuntu|18.04|4.15|LXDE|X|X|X|alt+f2|**O**<sup>[13]</sup>[]|X|X|X|X|**O**|X|X|[Lubuntu](https://lubuntu.me/)|
 |[Kubuntu](https://kubuntu.org/)|Ubuntu|18.04|4.15|KDE|X|X|X|X|X|X|X|X|settings|X|X|X|[Kubuntu](https://kubuntu.org/)|
@@ -74,6 +74,7 @@ Linux stuff
 <sup>[14]</sup> sudo apt-get install liblttng-ust0  
 <sup>[15]</sup> Settings Maanger > Appearance & Settings Manager > Windows Manager
 <sup>[16]</sup> $ kcp -u && kcp -i vscode
+<sup>[17]</sup> Manually install Adwaita Dark (doesn't go well with rest of system)
 
 # Desktop Environments to Test
 - [Cinnamon](https://cinnamon-spices.linuxmint.com/)
