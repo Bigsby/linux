@@ -26,6 +26,7 @@ Linux stuff
 |[Elive](https://www.elivecd.org/)<sup>i386</sup>|Debian<sup>7.11</sup>|3.0|3.16|Enlightenment|**O**||||||||||||[Elive](https://www.elivecd.org/)|
 |[Arch Linux](https://www.archlinux.org/)|Linux||||||||||||||||[Arch Linux](https://www.archlinux.org/)|
 |[Manjaro](https://manjaro.org/)|Arch Linux|17.1|4.14|XFCE|X|X|[X](https://stackoverflow.com/questions/44117840/can-i-set-listen-urls-in-appsettings-json-in-asp-net-core-2-0-preview)|X|X|X|X|X|X|X|X|X|[Manjaro](https://manjaro.org/)|
+|[KaOS](https://kaosx.us/)|Arch Linux|2018.10|4.18|KDE|X<sup>[16]</sup>|||X|X|X|X|X|X|X|X|[KaOS](https://kaosx.us/)
 |[RedHat](https://www.redhat.com/)|Linux||||||||||||||||[RedHat](https://www.redhat.com/)|
 |[Fedora](https://getfedora.org/)|Red Hat|28|4.17|GNOME|X|X|X|X|X<sup>[11]</sup>|X<sup>[7]</sup>|X<sup>[8]</sup>|**O**<sup>[12]</sup>|X<sup>[9]</sup>|X|X|X|[Fedora](https://getfedora.org/)|
 |[CentOS](https://www.centos.org/)|Red Hat|7|3.0|"GNOME"|X|X|X|X|"X"|X|X|**O**|X|X<sup>[10]</sup>|X|X|[CentOS](https://www.centos.org/)|
@@ -72,6 +73,7 @@ Linux stuff
 <sup>[13]</sup> Menu > Preferences > Customize Look and Feel.  
 <sup>[14]</sup> sudo apt-get install liblttng-ust0  
 <sup>[15]</sup> Settings Maanger > Appearance & Settings Manager > Windows Manager
+<sup>[16]</sup> $ kcp -u && kcp -i vscode
 
 # Desktop Environments to Test
 - [Cinnamon](https://cinnamon-spices.linuxmint.com/)
