@@ -57,7 +57,7 @@ Linux stuff
 **sudo** - has sudo installed
 
 > **Notes:**  
-<sup>[1]</sup> Configurable to Win key.  
+<sup>[1]</sup> Configurable to Win key. ([alternative](https://codeyarns.com/2015/11/03/how-to-open-whisker-menu-with-win-key/))
 <sup>[2]</sup> KDE Themes. Not all windows' background change.  
 <sup>[3]</sup> Date/Time formatting.  
 <sup>[4]</sup> Control Panel > Regional & Accessibility > Keyboard Shortcuts > Command Shortcuts (tab).  
