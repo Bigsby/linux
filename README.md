@@ -72,8 +72,8 @@ Linux stuff
 <sup>[12]</sup> gsettings set org.gnome.desktop.interface clock-show-date true  
 <sup>[13]</sup> Menu > Preferences > Customize Look and Feel.  
 <sup>[14]</sup> sudo apt-get install liblttng-ust0  
-<sup>[15]</sup> Settings Maanger > Appearance & Settings Manager > Windows Manager
-<sup>[16]</sup> $ kcp -u && kcp -i vscode
+<sup>[15]</sup> Settings Maanger > Appearance & Settings Manager > Windows Manager  
+<sup>[16]</sup> $ kcp -u && kcp -i vscode  
 <sup>[17]</sup> Manually install Adwaita Dark (doesn't go well with rest of system)
 
 # Desktop Environments to Test
